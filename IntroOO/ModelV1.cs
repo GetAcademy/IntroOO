@@ -1,6 +1,6 @@
 ﻿namespace IntroOO
 {
-    internal class Model
+    internal class ModelV1
     {
         public Person Person;
     }
